@@ -1,0 +1,3 @@
+comments:                    # embed disqus or isso comments
+  disqus: "havalle"
+  disqus_url: "https://hernanavalle.com"
